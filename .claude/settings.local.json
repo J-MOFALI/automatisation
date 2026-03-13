@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.red-by-sfr.fr)",
+      "Bash(git init:*)"
+    ]
+  }
+}
